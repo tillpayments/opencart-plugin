@@ -1,5 +1,9 @@
 # Till Payments OpenCart Extension
 
+## Requirements
+PHP 7.1+
+OpenCart 3+ Requirements
+
 ## Installation
 
 1. Go to `Extensions` > `Installer` in your shop's admin area.
@@ -21,4 +25,4 @@
     1. Enter your payment method credentials.
     1. Click on the blue disk button in the top right to save your changes.
 
-The active payment options will be provided to your customers during checkout.
+The active payment options will be provided to your customers during checkout (Visa, Mastercard, AMEX)
