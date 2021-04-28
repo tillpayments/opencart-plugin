@@ -1,0 +1,19 @@
+{
+  "name": "till-payments/till-payments-opencart",
+  "description": "",
+  "type": "opencart-plugin",
+  "license": "",
+  "require": {
+    "php": ">=7.1",
+    "psr/log": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "TillPayments\\Client\\": "upload/system/library/till-payments/client/",
+      "TillPayments\\": "upload/system/library/till-payments/plugin/"
+    }
+  },
+  "config": {
+    "vendor-dir": "upload/system/library/till-payments/"
+  }
+}
