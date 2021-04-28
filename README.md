@@ -1,8 +1,8 @@
 # Till Payments OpenCart Extension
 
 ## Requirements
-PHP 7.1+
-OpenCart 3+ Requirements
+PHP 7.1+ <br>
+OpenCart 3+ 
 
 ## Installation
 
